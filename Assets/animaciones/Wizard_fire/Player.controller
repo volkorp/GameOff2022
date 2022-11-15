@@ -299,10 +299,17 @@ AnimatorStateMachine:
     m_Position: {x: 270, y: 250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -749157365925119507}
+<<<<<<< Updated upstream
     m_Position: {x: 550, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1708862388767821899}
     m_Position: {x: 550, y: 250, z: 0}
+=======
+    m_Position: {x: 590, y: 100, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -1708862388767821899}
+    m_Position: {x: 590, y: 250, z: 0}
+>>>>>>> Stashed changes
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -310,7 +317,11 @@ AnimatorStateMachine:
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 50, y: 20, z: 0}
   m_EntryPosition: {x: 50, y: 120, z: 0}
+<<<<<<< Updated upstream
   m_ExitPosition: {x: 990, y: 180, z: 0}
+=======
+  m_ExitPosition: {x: 960, y: 200, z: 0}
+>>>>>>> Stashed changes
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 7345624365264953187}
 --- !u!1102 &4363618107675178507
